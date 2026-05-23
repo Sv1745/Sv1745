@@ -75,6 +75,5 @@ Route mapping • Incentives • Scalability • Backend + UI logic.
 
 **Mail:** [srivathsamurthys.1745@gmail.com](mailto:srivathsamurthys.1745@gmail.com)
 **LinkedIn:** [www.linkedin.com/srivathsa-s-murthy](https://www.linkedin.com/in/srivathsa-s-murthy/)
-**YouTube/Portfolio:** add when ready  
 
 ---
