@@ -6,13 +6,13 @@
   <a href="https://svsm.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/Srivathsa-S-Murthy">
+  <a href="https://github.com/Sv1745">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/srivathsa-s-murthy/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Srivathsa-S-Murthy?tab=repositories">
+  <a href="https://github.com/Sv1745?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
