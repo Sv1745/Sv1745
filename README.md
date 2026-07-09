@@ -151,29 +151,39 @@ I enjoy designing systems that are scalable, maintainable, and solve real-world 
 # GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srivathsa-S-Murthy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Sv1745&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivathsa-S-Murthy&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1745&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Srivathsa-S-Murthy&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivathsa-S-Murthy&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=888888&point=ffffff"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=Sv1745&theme=algolia&no-frame=true&column=4"/>
 </p>
 
 ---
 
-# Currently Exploring
+<h2 align="center">Currently Exploring</h2>
 
-- Distributed Systems
-- Agentic AI
-- Multi-Agent Systems
-- System Design
-- Large Language Models
-- Reinforcement Learning
+<p align="center">
+
+<img src="https://img.shields.io/badge/Distributed_Systems-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-181717?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Large_Language_Models-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Reinforcement_Learning-181717?style=for-the-badge"/>
+
+</p>
 
 ---
 
