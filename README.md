@@ -52,12 +52,99 @@ I enjoy designing systems that are scalable, maintainable, and solve real-world 
 | **Portfolio AI Assistant** | RAG-powered AI assistant capable of answering questions about projects, skills, and technical experience. |
 
 ---
-
 # Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,fastapi,django,flask,spring,docker,postgres,mongodb,sqlite,git,github,linux,bash,vscode,figma&theme=dark"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="240">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,bash&theme=dark"/>
+
+</td>
+
+<td align="center" width="240">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask,nodejs,express&theme=dark"/>
+
+</td>
+
+<td align="center" width="240">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,llamacpp,huggingface"/>
+
+</td>
+
+<td align="center">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle"/>
+
+</td>
+
+<td align="center">
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx&theme=dark"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Cloud
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,oraclecloud"/>
+
+</td>
+
+<td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,figma,blender,postman&theme=dark"/>
+
+</td>
+
+<td align="center">
+
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,21 +192,23 @@ I enjoy designing systems that are scalable, maintainable, and solve real-world 
 # Let's Connect
 
 <p align="center">
-<a href="https://svsm.dev">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/srivathsa-s-murthy/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Srivathsa-S-Murthy">
-<img src="https://img.shields.io/badge/Follow-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Sv1745">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://svsm.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Srivathsa-S-Murthy&style=for-the-badge&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Sv1745&style=for-the-badge&color=000000"/>
 </p>
 
 ---
