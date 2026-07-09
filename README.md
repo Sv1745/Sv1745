@@ -1,119 +1,129 @@
 <p align="center">
-<a href="https://github.com/Srivathsa-S-Murthy">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Srivathsa%20S%20Murthy&fontSize=40&fontColor=ffffff&animation=fadeIn&stroke=333333&strokeWidth=1&fontAlignY=50&fontAlign=center" alt="Srivathsa S Murthy - GitHub Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=220&section=header&text=Srivathsa%20S%20Murthy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Distributed%20Systems&descAlignY=62&descSize=18" />
+</p>
+
+<p align="center">
+  <a href="https://svsm.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p> <h1 align="center">Srivathsa S Murthy</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Full-Stack Developer</h3> <p align="center">
-  A passionate software engineer dedicated to building innovative solutions and exploring the frontiers of technology. With a strong foundation in full-stack development and a keen interest in AI/ML, I strive to create efficient, scalable, and impactful applications.
-</p> <p align="center">
-  <a href="https://www.linkedin.com/in/srivathsa-s-murthy/">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" style="height: 25px;"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/Srivathsa-S-Murthy">
-    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="height: 25px;"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://srivathsa.dev/">
-    <img src="https://cdn.simpleicons.org/internetexplorer/ffffff" alt="Portfolio" style="height: 25px;"/>
+  <a href="https://www.linkedin.com/in/srivathsa-s-murthy/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:contact@srivathsa.dev">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" style="height: 25px;"/>
+  <a href="https://github.com/Srivathsa-S-Murthy?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=490&lines=I+build+scalable+web+applications.;I+develop+intelligent+AI/ML+solutions.;I+love+to+learn+and+innovate.;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+production-grade+software.;AI+%7C+Backend+Engineering+%7C+Distributed+Systems.;FastAPI+%E2%80%A2+React+%E2%80%A2+Java+%E2%80%A2+Docker.;Always+learning.+Always+building."/>
 </p>
 
 ---
 
-<h2 align="center">Current Focus</h2> <p align="center">
-Currently diving deep into **Generative AI** and **Cloud-Native Architectures** to build robust and intelligent systems. Exploring new paradigms in distributed computing and optimizing performance for large-scale data processing.
+# About Me
+
+I'm an Artificial Intelligence & Machine Learning undergraduate passionate about building software that combines modern backend engineering, artificial intelligence, distributed systems, and cloud infrastructure.
+
+I enjoy designing systems that are scalable, maintainable, and solve real-world engineering problems—from AI-powered document processing to self-hosted infrastructure and full-stack web applications.
+
+---
+
+# Current Focus
+
+- Building **CASE** — Cluster Administration & Systems Environment
+- Developing **PrepTracker**
+- Exploring **Agentic AI**
+- Learning **Distributed Systems & System Design**
+- Preparing for Software Engineering roles
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **CASE** | Self-hosted distributed infrastructure platform with FastAPI backend, React dashboard, JWT authentication, RBAC, SSH node management, monitoring, and Docker deployment. |
+| **PrepTracker** | Interview preparation platform featuring authentication, PostgreSQL, progress tracking, and modern full-stack architecture. |
+| **Intelligent Document Processing Pipeline** | OCR + LLM powered document extraction pipeline using FastAPI, Tesseract OCR, Ollama and PostgreSQL. |
+| **Cravio** | Java & Spring Boot based food ordering and delivery platform with PostgreSQL backend. |
+| **Portfolio AI Assistant** | RAG-powered AI assistant capable of answering questions about projects, skills, and technical experience. |
+
+---
+
+# Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,fastapi,django,flask,spring,docker,postgres,mongodb,sqlite,git,github,linux,bash,vscode,figma&theme=dark"/>
 </p>
 
 ---
 
-<h2 align="center">Featured Projects</h2> <p align="center">
-<a href="https://github.com/Srivathsa-S-Murthy/CASE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivathsa-S-Murthy&repo=CASE&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&show_owner=true" alt="CASE"/>
-  </a>
-  <a href="https://github.com/Srivathsa-S-Murthy/PrepTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivathsa-S-Murthy&repo=PrepTracker&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&show_owner=true" alt="PrepTracker"/>
-  </a>
-  <a href="https://github.com/Srivathsa-S-Murthy/Intelligent-Document-Processing-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivathsa-S-Murthy&repo=Intelligent-Document-Processing-Pipeline&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&show_owner=true" alt="Intelligent Document Processing Pipeline"/>
-  </a>
-  <a href="https://github.com/Srivathsa-S-Murthy/Cravio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivathsa-S-Murthy&repo=Cravio&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&show_owner=true" alt="Cravio"/>
-  </a>
-  <a href="https://github.com/Srivathsa-S-Murthy/Portfolio-AI-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivathsa-S-Murthy&repo=Portfolio-AI-Assistant&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&show_owner=true" alt="Portfolio AI Assistant"/>
-  </a>
+# GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srivathsa-S-Murthy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivathsa-S-Murthy&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Srivathsa-S-Murthy&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivathsa-S-Murthy&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=888888&point=ffffff"/>
 </p>
 
 ---
 
-<h2 align="center">Tech Stack</h2> <p align="center">
-<img src="https://cdn.simpleicons.org/python/ffffff" alt="Python" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JavaScript" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" alt="Node.js" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/express/ffffff" alt="Express.js" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/django/ffffff" alt="Django" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/flask/ffffff" alt="Flask" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/ffffff" alt="Docker" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/kubernetes/ffffff" alt="Kubernetes" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonwebservices/ffffff" alt="AWS" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/ffffff" alt="Google Cloud" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" alt="MongoDB" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/ffffff" alt="PostgreSQL" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" alt="MySQL" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/git/ffffff" alt="Git" style="height: 30px;"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="height: 30px;"/>
-</p>
+# Currently Exploring
+
+- Distributed Systems
+- Agentic AI
+- Multi-Agent Systems
+- System Design
+- Large Language Models
+- Reinforcement Learning
 
 ---
 
-<h2 align="center">GitHub Analytics</h2> <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srivathsa-S-Murthy&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Srivathsa-S-Murthy&theme=dark&background=000000&border=333333&stroke=333333&ring=ffffff&fire=ffffff&currstreak=ffffff&dates=a3a3a3&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+# Open Source Philosophy
+
+> Build useful software.
+>
+> Learn continuously.
+>
+> Share knowledge.
+>
+> Keep improving.
 
 ---
 
-<h2 align="center">Current Learning</h2> <p align="center">
-Currently exploring advanced topics in **Reinforcement Learning** and **Quantum Computing**. Deepening my understanding of distributed systems design patterns and functional programming paradigms.
+# Let's Connect
+
+<p align="center">
+<a href="https://svsm.dev">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srivathsa-s-murthy/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Srivathsa-S-Murthy">
+<img src="https://img.shields.io/badge/Follow-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
-
-<h2 align="center">Quote</h2> <p align="center">
-<i>"The only way to do great work is to love what you do."</i> - Steve Jobs
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Srivathsa-S-Murthy&style=for-the-badge&color=000000"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub Icon" style="height: 20px;"/>
-  &nbsp; Built with Manus AI
+<i>"Software is built twice — first in thought, then in code."</i>
 </p>
