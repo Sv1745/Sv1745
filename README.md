@@ -100,7 +100,7 @@ I enjoy designing systems that are scalable, maintainable, and solve real-world 
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark"/>
 
-<br><br>
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle"/>
 
@@ -124,7 +124,8 @@ I enjoy designing systems that are scalable, maintainable, and solve real-world 
 
 ### Cloud
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,oraclecloud"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle"/>
 
 </td>
 
